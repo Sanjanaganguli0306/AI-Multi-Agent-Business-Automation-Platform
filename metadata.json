@@ -1,0 +1,8 @@
+{
+  "name": "AI Multi-Agent Business Automation Platform",
+  "description": "An enterprise-grade orchestration platform where specialized AI agents collaborate in real-time to solve complex business objectives, featuring a live pipeline collaboration canvas, detailed metrics tracking, and agent consoles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
